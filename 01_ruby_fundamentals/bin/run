@@ -3,3 +3,12 @@
 require_relative "../config/environment"
 
 start_cli
+loop do
+  print_menu_option
+  handle_choice(ask_for_input)
+end
+
+
+
+
+

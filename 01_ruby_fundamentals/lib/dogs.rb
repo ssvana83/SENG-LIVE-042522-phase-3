@@ -114,3 +114,4 @@ $dogs = [
     image_url: "https://res.cloudinary.com/dnocv6uwb/image/upload/v1629822337/sn-color_qesmhx.jpg"
   }
 ]
+
